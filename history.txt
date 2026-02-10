@@ -1,0 +1,10 @@
+Explain the overall architecture of your project.
+Why did you choose this AI model?
+How does your application use public APIs?
+How do you handle API failures?
+What are the limitations of your system?
+What is sql?
+Explain the importance of sql.
+Where is sql used in real-world applications?
+How does sql relate to your project?
+What are the limitations of sql?
